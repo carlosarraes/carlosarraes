@@ -42,7 +42,3 @@ Passionate web developer with strong problem-solving and communication skills. F
 ### Badges
 
 <a href="https://www.github.com/carlosarraes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/carlosarraes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/carlosarraes"><img src="https://github-readme-stats.vercel.app/api?username=carlosarraes&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="carlosarraes's GitHub stats" /></a>
