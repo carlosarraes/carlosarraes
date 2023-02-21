@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Carlos+Arraes;Full+Stack+Dev"/>
 </p>
 Hey👋, i'm a passionate web developer with strong problem-solving and communication skills. Focused on backend technologies with seven months of study and a background in management. Committed to delivering high-quality, reliable code. Looking to continue learning and growing as a developer.
