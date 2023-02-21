@@ -17,6 +17,8 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
 <br/>
 <h2 align="center">Projects</h2>
 <br/>
+<h3 align="center">Type any e-mail/password(6 digits) to login.</h3>
+<br/>
 <table bordercolor="#aaa" valign="top">
   <tr>
     <td width="50%" align="center">
@@ -58,13 +60,13 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
       <p align="center">An expenses tracker app, uses an API to get currency data. User can save, edit and remove expenses!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Trivia</h3>
+      <h3 align="center">FunMusic</h3>
       <div align="center">
         <img src="./images/gifMusic.gif" width="300px" height="200px" align="center" alt="FunMusic"/>
       </div>
       <p align="center">
-        <a target="_blank" href=""><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
-        <a target="_blank" href=""><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
+        <a target="_blank" href="https://github.com/carlosarraes/funmusic"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
+        <a target="_blank" href="https://funmusic.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
       </p>
       <p align="center"><strong>Javascript, React, Tailwind, Jest, RTL</strong></p>
       <p align="center">An app that uses iTunes API to get music data, i've used class components to create this project. User can favorite(or unfavorite) musics and listen to previews. Favorited music gets saved in localStorage.</p>
