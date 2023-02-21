@@ -2,6 +2,7 @@
 <p>
   Hey👋, i'm a passionate web developer with strong problem-solving and communication skills. Focused on backend technologies with seven months of study and a background in management. Committed to delivering high-quality, reliable code. Looking to continue learning and growing as a developer.
 </p>
+<br>
 <h2 align="center">Keep In Touch</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/carlosarraes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
@@ -10,6 +11,7 @@
   <a href="https://github.com/carlosarraes/carlosarraes.github.io/blob/main/cv/Carlos%20Arraes%20-%20CV2.pdf"><img src="https://img.shields.io/badge/Curriculum-yellowgreen?style=for-the-badge"/></a>  
   <a href="https://carlosarraes.github.io/"><img src="https://img.shields.io/badge/devfolio-blueviolet?style=for-the-badge"/></a>  
 </div>
+<br>
 <h2 align="center">Projects</h2>
 <h4 align="center">Type any e-mail/password(6 digits) to login.</h4>
 <br/>
@@ -18,7 +20,7 @@
     <td width="50%" align="center">
       <h3 align="center">RecipeHub</h3>
       <div align="center">
-        <img src="./images/recipesApp.gif" height="300px" align="center" alt="RecipeHub"/>
+        <img src="./images/recipesAppMin.gif" height="300px" align="center" alt="RecipeHub"/>
         <div align="center">
           <a target="_blank" href="https://github.com/carlosarraes/recipes"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
           <a target="_blank" href="https://hubrecipe.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
@@ -30,7 +32,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Trivia</h3>
       <div align="center">
-        <img src="./images/trivia.gif" width="300px" height="200px" align="center" alt="Trivia"/>
+        <img src="./images/triviaMin.gif" width="300px" height="200px" align="center" alt="Trivia"/>
       </div>
       <p align="center">
         <a target="_blank" href="https://github.com/carlosarraes/trivia"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
@@ -67,6 +69,7 @@
     </td>
   </tr>
 </table>
+<br>
 <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
@@ -101,6 +104,7 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+<br>
 <h2 align="center">Code Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=carlosarraes&theme=tokyonight" width="50%" height="170px" />
