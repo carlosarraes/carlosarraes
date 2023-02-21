@@ -11,9 +11,7 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
   <a href="mailto:carraeshb@gmail.com"><img src="https://img.shields.io/badge/Email-contact%20me-informational?style=flat-square" width="140" height="30" /></a>  
   <a href="https://github.com/carlosarraes/carlosarraes.github.io/blob/main/cv/Carlos%20Arraes%20-%20CV2.pdf"><img src="https://img.shields.io/badge/CV-go%20to-blue?style=flat-square" width="90" height="30" /></a>  
 </p>
-<br/>
 <h2 align="center">Projects</h2>
-<br/>
 <h3 align="center">Type any e-mail/password(6 digits) to login.</h3>
 <br/>
 <table bordercolor="#aaa" valign="top">
@@ -70,7 +68,6 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
     </td>
   </tr>
 </table>
-
 <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
@@ -105,7 +102,6 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-<br/>
 <h2 align="center">Code Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=carlosarraes&theme=tokyonight" width="50%" height="170px" />
