@@ -12,7 +12,7 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
   <a href="https://github.com/carlosarraes/carlosarraes.github.io/blob/main/cv/Carlos%20Arraes%20-%20CV2.pdf"><img src="https://img.shields.io/badge/CV-go%20to-blue?style=flat-square" width="90" height="30" /></a>  
 </p>
 <h2 align="center">Projects</h2>
-<h3 align="center">Type any e-mail/password(6 digits) to login.</h3>
+<h4 align="center">Type any e-mail/password(6 digits) to login.</h4>
 <br/>
 <table bordercolor="#aaa" valign="top">
   <tr>
