@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Carlos+Arraes;Full+Stack+Dev"/>
 </p>
 Hey👋, i'm a passionate web developer with strong problem-solving and communication skills. Focused on backend technologies with seven months of study and a background in management. Committed to delivering high-quality, reliable code. Looking to continue learning and growing as a developer.
-<hr/>
 <br/>
 <h2 align="center">Keep In Touch</h2>
 <br/>
@@ -13,7 +12,6 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
   <a href="https://github.com/carlosarraes/carlosarraes.github.io/blob/main/cv/Carlos%20Arraes%20-%20CV2.pdf"><img src="https://img.shields.io/badge/CV-go%20to-blue?style=flat-square" width="90" height="30" /></a>  
 </p>
 <br/>
-<hr/>
 <br/>
 <h2 align="center">Projects</h2>
 <br/>
@@ -109,7 +107,6 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 <br/>
-<hr/>
 <br/>
 <h2 align="center">Code Stats</h2>
 <div align="center">
