@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/carlosarraes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
   <a href="mailto:carraeshb@gmail.com"><img src="https://img.shields.io/badge/Email-critical?style=for-the-badge"/></a>  
   <a href="https://github.com/carlosarraes/carlosarraes.github.io/blob/main/cv/Carlos%20Arraes%20-%20CV2.pdf"><img src="https://img.shields.io/badge/Curriculum-yellowgreen?style=for-the-badge"/></a>  
+  <a href="https://carlosarraes.github.io/"><img src="https://img.shields.io/badge/devfolio-blueviolet?style=for-the-badge"/></a>  
 </div>
 <h2 align="center">Projects</h2>
 <h4 align="center">Type any e-mail/password(6 digits) to login.</h4>
