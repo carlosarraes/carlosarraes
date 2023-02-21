@@ -12,7 +12,6 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
   <a href="https://github.com/carlosarraes/carlosarraes.github.io/blob/main/cv/Carlos%20Arraes%20-%20CV2.pdf"><img src="https://img.shields.io/badge/CV-go%20to-blue?style=flat-square" width="90" height="30" /></a>  
 </p>
 <br/>
-<br/>
 <h2 align="center">Projects</h2>
 <br/>
 <h3 align="center">Type any e-mail/password(6 digits) to login.</h3>
@@ -106,7 +105,6 @@ Hey👋, i'm a passionate web developer with strong problem-solving and communic
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-<br/>
 <br/>
 <h2 align="center">Code Stats</h2>
 <div align="center">
