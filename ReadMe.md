@@ -18,6 +18,18 @@
 <table bordercolor="#aaa" valign="top">
   <tr>
     <td width="50%" align="center">
+      <h3 align="center">Fav Cryptos</h3>
+      <div align="center">
+        <img src="./images/fc.gif" height="300px" align="center" alt="RecipeHub"/>
+        <div align="center">
+          <a target="_blank" href="https://github.com/carlosarraes/favcrypto"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
+          <a target="_blank" href="https://fcdocs.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
+        </div>
+      </div>
+      <p align="center"><strong>Golang, Go Tests, Docker, PostgreSQL, Typescript-React(Front)</strong></p>
+      <p align="center">A REST API using native Golang (without packages) that enables users to upvote 10 different cryptocurrencies by accessing an endpoint. This API updates the database by incrementing the count of votes for each crypto. I have containerized Golang and Postgres in Docker, and the Go App is running on Google Cloud Run while Postgres is hosted on ElephantSQL.</p>
+    </td>
+    <td width="50%" align="center">
       <h3 align="center">RecipeHub</h3>
       <div align="center">
         <img src="./images/recipesAppMin.gif" height="300px" align="center" alt="RecipeHub"/>
@@ -29,6 +41,8 @@
       <p align="center"><strong>TypeScript, React, ContextAPI, Tailwind, Jest, RTL</strong></p>
       <p align="center">A project that gets data from two different APIs (mealdb, cocktaildb). Uses localStorage as a "backend" so the user can save, check progress, favorite recipes(It was focused on mobile).</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Trivia</h3>
       <div align="center">
@@ -41,8 +55,6 @@
       <p align="center"><strong>TypeScript, React, ContextAPI, Tailwind, Jest, RTL</strong></p>
       <p align="center">Trivia game, gets data from an API, checks user data with Gravatar for avatars. There's a ranking system and the points are based on difficulty and time(localStorage as backend).</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Finnan</h3>
       <div align="center">
@@ -54,18 +66,6 @@
       </p>
       <p align="center"><strong>JavaScript, React, Redux, Tailwind, Jest, RTL</strong></p>
       <p align="center">An expenses tracker app, uses an API to get currency data. User can save, edit and remove expenses!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">FunMusic</h3>
-      <div align="center">
-        <img src="./images/gifMusic.gif" width="300px" height="200px" align="center" alt="FunMusic"/>
-      </div>
-      <p align="center">
-        <a target="_blank" href="https://github.com/carlosarraes/funmusic"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
-        <a target="_blank" href="https://funmusic.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
-      </p>
-      <p align="center"><strong>Javascript, React, Tailwind, Jest, RTL</strong></p>
-      <p align="center">An app that uses iTunes API to get music data, i've used class components to create this project. User can favorite(or unfavorite) musics and listen to previews. Favorited music gets saved in localStorage.</p>
     </td>
   </tr>
 </table>
