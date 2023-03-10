@@ -26,7 +26,7 @@
           <a target="_blank" href="https://fcdocs.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
         </div>
       </div>
-      <p align="center"><strong>Golang, Go Tests, Docker, PostgreSQL, Typescript-React(Front)</strong></p>
+      <p align="center"><strong>Golang, Go Tests, Docker, PostgreSQL, Google Cloud Run</strong></p>
       <p align="center">A REST API using native Golang (without packages) that enables users to upvote 10 different cryptocurrencies by accessing an endpoint. This API updates the database by incrementing the count of votes for each crypto. I have containerized Golang and Postgres in Docker, and the Go App is running on Google Cloud Run while Postgres is hosted on ElephantSQL.</p>
     </td>
     <td width="50%" align="center">
