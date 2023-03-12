@@ -18,7 +18,7 @@
 <table bordercolor="#aaa" valign="top">
   <tr>
     <td width="50%" align="center">
-      <h3 align="center">Fav Cryptos</h3>
+      <h3 align="center">Fav Cryptos(API)</h3>
       <div align="center">
         <img src="./images/fc.gif" height="300px" align="center" alt="RecipeHub"/>
         <div align="center">
