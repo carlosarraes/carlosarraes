@@ -18,7 +18,25 @@
 <table bordercolor="#aaa" valign="top">
   <tr>
     <td width="50%" align="center">
-      <h3 align="center">Fav Cryptos(API)</h3>
+      <h3 align="center">FS Data</h3>
+      <div align="center">
+        <video width="420" height="280" controls>
+          <source src="./images/fsstack.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <div align="center">
+          <a target="_blank" href="https://github.com/carlosarraes/fsfront"><img src="https://img.shields.io/badge/Frontend-37a779?style=for-the-badge"/></a>
+          <a target="_blank" href="https://github.com/carlosarraes/fsback"><img src="https://img.shields.io/badge/Backend-37a779?style=for-the-badge"/></a>
+          <a target="_blank" href="https://fsstack.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
+        </div>
+      </div>
+      <p align="center"><strong>Frontend: React, Vitest, Tailwind CS</strong></p>
+      <p align="center"><strong>Backend: Golang, Go Tests, Docker, PostgreSQL</strong></p>
+      <p align="center">FS Data is a full-stack web application designed to display team progress data with a visually engaging and user-friendly interface. The front-end and back-end components of the project work together seamlessly through API endpoints. 
+      The project includes tests performed with Vitest/MSW/Coverage-C8 for the front-end and route, connection, and handler tests for the back-end using a mocked database.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3 align="center">Fav Cryptos</h3>
       <div align="center">
         <img src="./images/fc.gif" height="300px" align="center" alt="RecipeHub"/>
         <div align="center">
@@ -26,9 +44,11 @@
           <a target="_blank" href="https://fcdocs.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
         </div>
       </div>
-      <p align="center"><strong>Golang, Go Tests, Docker, PostgreSQL, Google Cloud Run</strong></p>
+      <p align="center"><strong>Golang, Go Tests, Docker, PostgreSQL, Typescript-React(Front)</strong></p>
       <p align="center">A REST API using native Golang (without packages) that enables users to upvote 10 different cryptocurrencies by accessing an endpoint. This API updates the database by incrementing the count of votes for each crypto. I have containerized Golang and Postgres in Docker, and the Go App is running on Google Cloud Run while Postgres is hosted on ElephantSQL.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3 align="center">RecipeHub</h3>
       <div align="center">
@@ -41,8 +61,6 @@
       <p align="center"><strong>TypeScript, React, ContextAPI, Tailwind, Jest, RTL</strong></p>
       <p align="center">A project that gets data from two different APIs (mealdb, cocktaildb). Uses localStorage as a "backend" so the user can save, check progress, favorite recipes(It was focused on mobile).</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Trivia</h3>
       <div align="center">
@@ -54,18 +72,6 @@
       </p>
       <p align="center"><strong>TypeScript, React, ContextAPI, Tailwind, Jest, RTL</strong></p>
       <p align="center">Trivia game, gets data from an API, checks user data with Gravatar for avatars. There's a ranking system and the points are based on difficulty and time(localStorage as backend).</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Finnan</h3>
-      <div align="center">
-        <img src="./images/finnan.gif" width="300px" height="200px" align="center" alt="Finnan"/>
-      </div>
-      <p align="center">
-        <a target="_blank" href="https://github.com/carlosarraes/finnan"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
-        <a target="_blank" href="https://finnan.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
-      </p>
-      <p align="center"><strong>JavaScript, React, Redux, Tailwind, Jest, RTL</strong></p>
-      <p align="center">An expenses tracker app, uses an API to get currency data. User can save, edit and remove expenses!</p>
     </td>
   </tr>
 </table>
