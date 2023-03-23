@@ -19,8 +19,9 @@
   <tr>
     <td width="50%" align="center">
       <h3 align="center">FS Data</h3>
+
+[![Video Thumbnail](https://img.youtube.com/vi/7z_YntJ3W-g/maxresdefault.jpg)](https://www.youtube.com/watch?v=7z_YntJ3W-g)
       <div align="center">
-        [![Video Thumbnail](https://img.youtube.com/vi/7z_YntJ3W-g/maxresdefault.jpg)](https://www.youtube.com/watch?v=7z_YntJ3W-g)
         <div align="center">
           <a target="_blank" href="https://github.com/carlosarraes/fsfront"><img src="https://img.shields.io/badge/Frontend-37a779?style=for-the-badge"/></a>
           <a target="_blank" href="https://github.com/carlosarraes/fsback"><img src="https://img.shields.io/badge/Backend-37a779?style=for-the-badge"/></a>
