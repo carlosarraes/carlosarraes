@@ -20,10 +20,7 @@
     <td width="50%" align="center">
       <h3 align="center">FS Data</h3>
       <div align="center">
-        <video width="320" height="240" controls>
-          <source src="https://drive.google.com/uc?export=view&id=1fYs6DGctNH3l1C4W5JqGDdcLCkhX6ZIr" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+        [![Video Thumbnail](https://img.youtube.com/vi/7z_YntJ3W-g/maxresdefault.jpg)](https://www.youtube.com/watch?v=7z_YntJ3W-g)
         <div align="center">
           <a target="_blank" href="https://github.com/carlosarraes/fsfront"><img src="https://img.shields.io/badge/Frontend-37a779?style=for-the-badge"/></a>
           <a target="_blank" href="https://github.com/carlosarraes/fsback"><img src="https://img.shields.io/badge/Backend-37a779?style=for-the-badge"/></a>
