@@ -20,7 +20,7 @@
     <td width="50%" align="center">
       <h3 align="center">FS Data</h3>
       <div align="center">
-        <video width="420" height="280" controls>
+        <video width="320" height="240" controls>
           <source src="https://drive.google.com/uc?export=view&id=1fYs6DGctNH3l1C4W5JqGDdcLCkhX6ZIr" type="video/mp4">
           Your browser does not support the video tag.
         </video>
