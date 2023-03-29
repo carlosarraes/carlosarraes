@@ -109,8 +109,3 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-<br>
-<h2 align="center">Code Stats</h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=carlosarraes&theme=tokyonight" width="50%" height="170px" />
-</div>
