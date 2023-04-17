@@ -17,9 +17,22 @@
 <table bordercolor="#aaa" valign="top">
   <tr>
     <td width="50%" align="center">
+      <h3 align="center">Unified Store</h3>
+      <div align="center">
+        <img src="./images/unified.gif" height="220px" align="center" alt="Unified Store"/>
+        <div align="center">
+          <a target="_blank" href="https://github.com/carlosarraes/unified"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
+          <a target="_blank" href="https://unified-self.vercel.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
+        </div>
+      </div>
+      <p align="center"><strong>Frontend: React, TypeScript, Vitest, Tailwind CS</strong></p>
+      <p align="center"><strong>Backend: Golang, Go-chi, GORM, Docker, MySQL</strong></p>
+      <p align="center">Unified Store is a modular web app for searching and displaying products from MercadoLivre and Buscape. Built with a React frontend and Go backend, it leverages a stateless API, web scraper, and PlanetScale database.</p>
+    </td>
+    <td width="50%" align="center">
       <h3 align="center">QrCode Me</h3>
       <div align="center">
-        <img src="./images/qcme.gif" height="220px" align="center" alt="RecipeHub"/>
+        <img src="./images/qcme.gif" height="220px" align="center" alt="QrCode Me"/>
         <div align="center">
           <a target="_blank" href="https://github.com/carlosarraes/qcme"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
           <a target="_blank" href="https://qcme.vercel.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
@@ -29,10 +42,12 @@
       <p align="center"><strong>Backend: Golang, Go Tests, Docker, PostgreSQL</strong></p>
       <p align="center">QrCode Me is an app designed to easily share your GitHub or LinkedIn profiles. Simply fill out the provided forms and save the generated QR code for quick and easy sharing!</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3 align="center">FS Data</h3>
       <div align="center">
-        <img src="./images/fsstack.gif" height="220px" align="center" alt="RecipeHub"/>
+        <img src="./images/fsstack.gif" height="220px" align="center" alt="FS Data"/>
         <div align="center">
           <a target="_blank" href="https://github.com/carlosarraes/fsfront"><img src="https://img.shields.io/badge/Frontend-37a779?style=for-the-badge"/></a>
           <a target="_blank" href="https://github.com/carlosarraes/fsback"><img src="https://img.shields.io/badge/Backend-37a779?style=for-the-badge"/></a>
@@ -44,12 +59,10 @@
       <p align="center">FS Data is a full-stack web application designed to display team progress data with a visually engaging and user-friendly interface. The front-end and back-end components of the project work together seamlessly through API endpoints. 
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <h3 align="center">Fav Cryptos</h3>
       <div align="center">
-        <img src="./images/fc.gif" height="300px" align="center" alt="RecipeHub"/>
+        <img src="./images/fc.gif" height="300px" align="center" alt="Fav Cryptos"/>
         <div align="center">
           <a target="_blank" href="https://github.com/carlosarraes/favcrypto"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
           <a target="_blank" href="https://fcdocs.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
@@ -58,26 +71,15 @@
       <p align="center"><strong>Golang, Go Tests, Docker, PostgreSQL, Typescript-React(Front)</strong></p>
       <p align="center">A REST API using native Golang (without packages) that enables users to upvote 10 different cryptocurrencies by accessing an endpoint. This API updates the database by incrementing the count of votes for each crypto. I have containerized Golang and Postgres in Docker, and the Go App is running on Google Cloud Run while Postgres is hosted on ElephantSQL.</p>
     </td>
-    <td width="50%" align="center">
-      <h3 align="center">RecipeHub</h3>
-      <div align="center">
-        <img src="./images/recipesAppMin.gif" height="300px" align="center" alt="RecipeHub"/>
-        <div align="center">
-          <a target="_blank" href="https://github.com/carlosarraes/recipes"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
-          <a target="_blank" href="https://hubrecipe.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
-        </div>
-      </div>
-      <p align="center"><strong>TypeScript, React, ContextAPI, Tailwind, Jest, RTL</strong></p>
-      <p align="center">A project that gets data from two different APIs (mealdb, cocktaildb). Uses localStorage as a "backend" so the user can save, check progress, favorite recipes(It was focused on mobile).</p>
-    </td>
   </tr>
 </table>
 <br>
 <h2 align="center">Skills</h2>
-<p align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -89,22 +91,12 @@
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+</div>

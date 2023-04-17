@@ -18,7 +18,7 @@
 
 **Front End** | TypeScript, React, NextJS, Tailwind, JavaScript, CSS, Sass
 
-**Back End** | Golang, TypeScript, NodeJS, PostgreSQL, MongoDB, MySQL
+**Back End** | Golang, TypeScript, Express, NodeJS, PostgreSQL, MongoDB, MySQL
 
 **Testing/Deployment** | Jest, Mocha, Chai, Vitest, Sinon, Go Tests
 
@@ -39,9 +39,18 @@
 
 ## Projects
 
+### [Unified Store](https://unified-self.vercel.app/) - Full Stack Application <span class="spacer"></span>Apr 2023
+
+<span class="spacer"></span>React | TypeScript | Golang | MySQL | Tailwind | Docker
+
+- Easily extendable frontend using React, TypeScript, and Tailwind CSS, with a Go-based backend.
+- Uses data from MercadoLivre API and Buscape web scraper to display products
+- Utilizes PlanetScale database for storing search results and histories.
+- Deployed using a Dockerfile to ensure seamless integration with Google Cloud Platform.
+
 ### [QrCode Me](https://qcme.vercel.app/) - Full Stack Application <span class="spacer"></span>Mar 2023
 
-_QrCode Me is a user-friendly app that simplifies sharing your GitHub and LinkedIn profiles via QR codes._<span class="spacer"></span>Golang | React | TypeScript | PostgreSQL | Tailwind | Docker
+<span class="spacer"></span>Golang | React | TypeScript | PostgreSQL | Tailwind | Docker
 
 - Utilized React with TypeScript for the frontend, styled with Tailwind and deployment on Vercel.
 - Stateless API container for backend, hosted on Google Cloud Run and written in Golang.
@@ -52,7 +61,7 @@ _QrCode Me is a user-friendly app that simplifies sharing your GitHub and Linked
 
 ### [FSData](https://fsstack.netlify.app/) - Full Stack Application <span class="spacer"></span>Feb 2023
 
-_FS Data is a full-stack project designed to display team progress data with a visually engaging interface._<span class="spacer"></span>Golang | React | TypeScript | PostgreSQL | Tailwind | Docker
+<span class="spacer"></span>Golang | React | TypeScript | PostgreSQL | Tailwind | Docker
 
 - Front-end built with TypeScript, deployed on Netlify, and styled using Tailwind CSS and DaisyUI.
 - Back-end created in Golang with go-chi, including a Dockerfile for deployment on Google Cloud Run.
@@ -61,21 +70,13 @@ _FS Data is a full-stack project designed to display team progress data with a v
 
 <div className="vertical-spacer"></div>
 
-### [FavCrypto](https://fcdocs.netlify.app/) - Backend RESTful API <span class="spacer"></span>Feb 2023
-
-_Fav Crypto is a stateless RESTful API developed in native Golang that enables users to upvote their favorite cryptocurrencies._<span class="spacer"></span>Golang | PostgreSQL | Tailwind | Docker
-
-- API functionality includes upvoting favorite cryptocurrencies and fetching updated prices.
-- Interact with endpoints using clients like Insomnia or Postman, or through the provided documentation link.
-- Testing performed on all three endpoints with plans to incorporate a package for API testing in future projects.
-
 ## Education
 
-**Trybe Bootcamp** - Full Stack Development<span class="spacer"></span>_current - Until Aug 2023_
+**Trybe Bootcamp** - Full Stack Development<span class="spacer"></span>_(current) Aug 2022 - Aug 2023_
 
-**NYFA** - 3D Animation<span class="spacer"></span>_Sep 2011_
+**New York Film Academy** - 3D Animation<span class="spacer"></span>_Aug 2010 - Sep 2011_
 
-**AESO Barros Melo** - Associate Graphic Design<span class="spacer"></span>_Jan 2011_
+**AESO Barros Melo** - Associate Graphic Design<span class="spacer"></span>_Jan 2008 - Jan 2011_
 
 ## Languages
 
