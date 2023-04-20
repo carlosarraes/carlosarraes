@@ -17,6 +17,19 @@
 <table bordercolor="#aaa" valign="top">
   <tr>
     <td width="50%" align="center">
+      <h3 align="center">MChat</h3>
+      <div align="center">
+        <img src="./images/mchat.gif" height="220px" align="center" alt="Unified Store"/>
+        <div align="center">
+          <a target="_blank" href="https://github.com/carlosarraes/mchat"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
+          <a target="_blank" href="https://mchat-ca.vercel.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
+        </div>
+      </div>
+      <p align="center"><strong>Frontend: React, TypeScript, Tailwind CS</strong></p>
+      <p align="center"><strong>Backend: Express, TypeScript, Socket.io, Drizzle ORM, Docker, MySQL</strong></p>
+      <p align="center">MChat is a lightweight, focus on type safety, real-time chat application built with TypeScript, utilizing React on the frontend and Express on the backend.</p>
+    </td>
+    <td width="50%" align="center">
       <h3 align="center">Unified Store</h3>
       <div align="center">
         <img src="./images/unified.gif" height="220px" align="center" alt="Unified Store"/>
@@ -29,6 +42,8 @@
       <p align="center"><strong>Backend: Golang, Go-chi, GORM, Docker, MySQL</strong></p>
       <p align="center">Unified Store is a modular web app for searching and displaying products from MercadoLivre and Buscape. Built with a React frontend and Go backend, it leverages a stateless API, web scraper, and PlanetScale database.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3 align="center">QrCode Me</h3>
       <div align="center">
@@ -42,8 +57,6 @@
       <p align="center"><strong>Backend: Golang, Go Tests, Docker, PostgreSQL</strong></p>
       <p align="center">QrCode Me is an app designed to easily share your GitHub or LinkedIn profiles. Simply fill out the provided forms and save the generated QR code for quick and easy sharing!</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <h3 align="center">FS Data</h3>
       <div align="center">
@@ -58,18 +71,6 @@
       <p align="center"><strong>Backend: Golang, Go Tests, Docker, PostgreSQL</strong></p>
       <p align="center">FS Data is a full-stack web application designed to display team progress data with a visually engaging and user-friendly interface. The front-end and back-end components of the project work together seamlessly through API endpoints. 
       </p>
-    </td>
-    <td width="50%" align="center">
-      <h3 align="center">Fav Cryptos</h3>
-      <div align="center">
-        <img src="./images/fc.gif" height="300px" align="center" alt="Fav Cryptos"/>
-        <div align="center">
-          <a target="_blank" href="https://github.com/carlosarraes/favcrypto"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
-          <a target="_blank" href="https://fcdocs.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
-        </div>
-      </div>
-      <p align="center"><strong>Golang, Go Tests, Docker, PostgreSQL, Typescript-React(Front)</strong></p>
-      <p align="center">A REST API using native Golang (without packages) that enables users to upvote 10 different cryptocurrencies by accessing an endpoint. This API updates the database by incrementing the count of votes for each crypto. I have containerized Golang and Postgres in Docker, and the Go App is running on Google Cloud Run while Postgres is hosted on ElephantSQL.</p>
     </td>
   </tr>
 </table>
