@@ -17,18 +17,33 @@
 <table bordercolor="#aaa" valign="top">
   <tr>
     <td width="50%" align="center">
+      <h3 align="center">Zin Mail</h3>
+      <div align="center">
+        <img src="./images/zinmail.gif" height="220px" align="center" alt="Zin Mail"/>
+        <div align="center">
+          <a target="_blank" href="https://github.com/carlosarraes/zinmail"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
+          <a target="_blank" href="http://zinmail.s3-website-sa-east-1.amazonaws.com/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
+        </div>
+      </div>
+      <p align="center"><strong>Frontend: Vue3, TypeScript, Tailwind CSS</strong></p>
+      <p align="center"><strong>Backend: Go, Go-Chi, ZincSearch, Docker, AWS S3 EC2</strong></p>
+      <p align="center">A full-stack email search app using Vue3, Go, and ZincSearch. Efficiently search through 517k emails and view their content. Hosted on AWS. Frondend on S3 bucket, backend/db on EC2(container).</p>
+    </td>
+    <td width="50%" align="center">
       <h3 align="center">MChat</h3>
       <div align="center">
-        <img src="./images/mchat.gif" height="220px" align="center" alt="Unified Store"/>
+        <img src="./images/mchat.gif" height="220px" align="center" alt="MChat"/>
         <div align="center">
           <a target="_blank" href="https://github.com/carlosarraes/mchat"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
           <a target="_blank" href="https://mchat-ca.vercel.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
         </div>
       </div>
-      <p align="center"><strong>Frontend: React, TypeScript, Tailwind CS</strong></p>
+      <p align="center"><strong>Frontend: React, TypeScript, Tailwind CSS</strong></p>
       <p align="center"><strong>Backend: Express, TypeScript, Socket.io, Drizzle ORM, Docker, MySQL</strong></p>
       <p align="center">MChat is a lightweight, focus on type safety, real-time chat application built with TypeScript, utilizing React on the frontend and Express on the backend.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3 align="center">Unified Store</h3>
       <div align="center">
@@ -38,12 +53,10 @@
           <a target="_blank" href="https://unified-self.vercel.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
         </div>
       </div>
-      <p align="center"><strong>Frontend: React, TypeScript, Vitest, Tailwind CS</strong></p>
+      <p align="center"><strong>Frontend: React, TypeScript, Vitest, Tailwind CSS</strong></p>
       <p align="center"><strong>Backend: Golang, Go-chi, GORM, Docker, MySQL</strong></p>
       <p align="center">Unified Store is a modular web app for searching and displaying products from MercadoLivre and Buscape. Built with a React frontend and Go backend, it leverages a stateless API, web scraper, and PlanetScale database.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <h3 align="center">QrCode Me</h3>
       <div align="center">
@@ -53,24 +66,9 @@
           <a target="_blank" href="https://qcme.vercel.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
         </div>
       </div>
-      <p align="center"><strong>Frontend: React, Vitest, Tailwind CS</strong></p>
+      <p align="center"><strong>Frontend: React, Vitest, Tailwind CSS</strong></p>
       <p align="center"><strong>Backend: Golang, Go Tests, Docker, PostgreSQL</strong></p>
       <p align="center">QrCode Me is an app designed to easily share your GitHub or LinkedIn profiles. Simply fill out the provided forms and save the generated QR code for quick and easy sharing!</p>
-    </td>
-    <td width="50%" align="center">
-      <h3 align="center">FS Data</h3>
-      <div align="center">
-        <img src="./images/fsstack.gif" height="220px" align="center" alt="FS Data"/>
-        <div align="center">
-          <a target="_blank" href="https://github.com/carlosarraes/fsfront"><img src="https://img.shields.io/badge/Frontend-37a779?style=for-the-badge"/></a>
-          <a target="_blank" href="https://github.com/carlosarraes/fsback"><img src="https://img.shields.io/badge/Backend-37a779?style=for-the-badge"/></a>
-          <a target="_blank" href="https://fsstack.netlify.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
-        </div>
-      </div>
-      <p align="center"><strong>Frontend: React, Vitest, Tailwind CS</strong></p>
-      <p align="center"><strong>Backend: Golang, Go Tests, Docker, PostgreSQL</strong></p>
-      <p align="center">FS Data is a full-stack web application designed to display team progress data with a visually engaging and user-friendly interface. The front-end and back-end components of the project work together seamlessly through API endpoints. 
-      </p>
     </td>
   </tr>
 </table>
