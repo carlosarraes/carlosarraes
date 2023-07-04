@@ -17,6 +17,19 @@
 <table bordercolor="#aaa" valign="top">
   <tr>
     <td width="50%" align="center">
+      <h3 align="center">RMA Tourism</h3>
+      <div align="center">
+        <img src="./images/rma.gif" height="220px" align="center" alt="RMA Tourism"/>
+        <div align="center">
+          <a target="_blank" href="https://github.com/carlosarraes/rmagh"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
+          <a target="_blank" href="https://rmagh.vercel.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
+        </div>
+      </div>
+      <p align="center"><strong>Frontend: React, TypeScript, Tailwind CSS</strong></p>
+      <p align="center"><strong>Backend: Crystal, Postgres, Kemal, Docker, GCP</strong></p>
+      <p align="center">The RMA Travel Planner is a web application designed to facilitate the planning and managing of interdimensional travels. It leverages the power of PostgreSQL, Crystal, and ViteJS to provide a user-friendly interface and reliable data management. </p>
+    </td>
+    <td width="50%" align="center">
       <h3 align="center">Zin Mail</h3>
       <div align="center">
         <img src="./images/zinmail.gif" height="220px" align="center" alt="Zin Mail"/>
@@ -27,20 +40,7 @@
       </div>
       <p align="center"><strong>Frontend: Vue3, TypeScript, Tailwind CSS</strong></p>
       <p align="center"><strong>Backend: Go, Go-Chi, ZincSearch, Docker, AWS S3 EC2</strong></p>
-      <p align="center">A full-stack email search app using Vue3, Go, and ZincSearch. Efficiently search through 517k emails and view their content. Hosted on AWS. Frondend on S3 bucket, backend/db on EC2(container).</p>
-    </td>
-    <td width="50%" align="center">
-      <h3 align="center">MChat</h3>
-      <div align="center">
-        <img src="./images/mchat.gif" height="220px" align="center" alt="MChat"/>
-        <div align="center">
-          <a target="_blank" href="https://github.com/carlosarraes/mchat"><img src="https://img.shields.io/badge/Code-37a779?style=for-the-badge"/></a>
-          <a target="_blank" href="https://mchat-ca.vercel.app/"><img src="https://img.shields.io/badge/App-37a779?style=for-the-badge"/></a>
-        </div>
-      </div>
-      <p align="center"><strong>Frontend: React, TypeScript, Tailwind CSS</strong></p>
-      <p align="center"><strong>Backend: Express, TypeScript, Socket.io, Drizzle ORM, Docker, MySQL</strong></p>
-      <p align="center">MChat is a lightweight, focus on type safety, real-time chat application built with TypeScript, utilizing React on the frontend and Express on the backend.</p>
+      <p align="center">A full-stack email search app using Vue3, Go, and ZincSearch. Efficiently search through 517k emails and view their content. Hosted on AWS. Frondend on S3 bucket, backend/db on EC2(container). Had to remove the app because AWS isn't free :(</p>
     </td>
   </tr>
   <tr>
