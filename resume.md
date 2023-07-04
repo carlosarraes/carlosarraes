@@ -16,19 +16,19 @@
 
 ## Technical Skills
 
-**Front End** | TypeScript, React, NextJS, Tailwind, JavaScript, CSS, Sass
+**Front End** | TypeScript, React, Vue3, NextJS, Tailwind, JavaScript, CSS, Sass
 
-**Back End** | Golang, TypeScript, Express, NodeJS, PostgreSQL, MongoDB, MySQL
+**Back End** | Golang, TypeScript, Crystal, Express, NestJS, NodeJS, SQL, NoSQL
 
-**Testing/Deployment** | Jest, Mocha, Chai, Vitest, Sinon, Go Tests
+**Testing/Deployment** | Jest, Mocha, Chai, Vitest, Sinon, Supertest, Go Tests
 
-**Developer Tools** | Docker, Git, npm, pnpm, Vite, Webpack, Agile Methodology, TDD, Kanban
+**Developer Tools** | Linux, Docker, Git, npm, pnpm, Vite, Webpack, Agile Methodology, TDD, Kanban
 
 <div className="vertical-spacer"></div>
 
 ## Experience
 
-### Manager | AeG Cafeteria <span class="spacer"></span>Out 2013 - Dec 2022
+### Manager | AeG Cafeteria <span class="spacer"></span>Oct 2013 - Apr 2023
 
 - Driving a 35% increase in revenue during the first year, showcasing strategic skills and focus on results.
 - Boosting talent retention from 70% to over 90%, emphasizing the importance of valuing and developing the team.
@@ -39,6 +39,27 @@
 
 ## Projects
 
+### [RMA Tourism](https://unified-self.vercel.app/) - Full Stack Application <span class="spacer"></span>Jun 2023
+
+<span class="spacer"></span>React | TypeScript | Crystal | Kemal | PostgreSQL | Tailwind | Docker
+
+- Developed a full-stack travel planning application, leveraging React, TypeScript, and Tailwind CSS for a user-friendly frontend interface.
+- Implemented the backend in Crystal and Kemal, showcasing the power of alternative modern web development languages.
+- Introduced a unique feature of a custom endpoint that scrapes images of travel locations, enhancing the overall user experience by providing visual context.
+
+<div className="vertical-spacer"></div>
+
+### [Zin Mail](https://github.com/carlosarraes/zinmail) - Full Stack Application <span class="spacer"></span>May 2023
+
+<span class="spacer"></span>Vue3 | TypeScript | Golang | ZincSearch | Tailwind | Docker
+
+- A full-stack email search application, using Vue3, TypeScript, and Tailwind CSS on the frontend.
+- Leverages Go, Go-Chi, and ZincSearch on the backend for efficient email searching capabilities.
+- Handles over half a million emails, allowing users to seamlessly search and view content.
+- Uses Docker for containerization of the application, ensuring consistency and reliability.
+
+<div className="vertical-spacer"></div>
+
 ### [Unified Store](https://unified-self.vercel.app/) - Full Stack Application <span class="spacer"></span>Apr 2023
 
 <span class="spacer"></span>React | TypeScript | Golang | MySQL | Tailwind | Docker
@@ -47,26 +68,6 @@
 - Uses data from MercadoLivre API and Buscape web scraper to display products
 - Utilizes PlanetScale database for storing search results and histories.
 - Deployed using a Dockerfile to ensure seamless integration with Google Cloud Platform.
-
-### [QrCode Me](https://qcme.vercel.app/) - Full Stack Application <span class="spacer"></span>Mar 2023
-
-<span class="spacer"></span>Golang | React | TypeScript | PostgreSQL | Tailwind | Docker
-
-- Utilized React with TypeScript for the frontend, styled with Tailwind and deployment on Vercel.
-- Stateless API container for backend, hosted on Google Cloud Run and written in Golang.
-- Database structured with PostgreSQL container hosted on ElephantSQL.
-- Frontend tests performed using Vitest and MSW for mocking.
-
-<div className="vertical-spacer"></div>
-
-### [FSData](https://fsstack.netlify.app/) - Full Stack Application <span class="spacer"></span>Feb 2023
-
-<span class="spacer"></span>Golang | React | TypeScript | PostgreSQL | Tailwind | Docker
-
-- Front-end built with TypeScript, deployed on Netlify, and styled using Tailwind CSS and DaisyUI.
-- Back-end created in Golang with go-chi, including a Dockerfile for deployment on Google Cloud Run.
-- Four API endpoints available for health check, retrieving users, creating users, and deleting users.
-- Tests performed using Vitest/MSW/Coverage-C8 for the front-end and route, DB connection, and handler tests for the back-end.
 
 <div className="vertical-spacer"></div>
 

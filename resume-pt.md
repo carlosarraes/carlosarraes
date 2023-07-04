@@ -14,17 +14,17 @@
 
 ## Habilidades Técnicas
 
-**Front End** | TypeScript, React, NextJS, Tailwind, JavaScript, CSS, Sass
+**Front End** | TypeScript, React, Vue3, NextJS, Tailwind, JavaScript, CSS, Sass
 
-**Back End** | Golang, TypeScript, Express, NodeJS, PostgreSQL, MongoDB, MySQL
+**Back End** | Golang, TypeScript, Crystal, Express, NestJS, NodeJS, SQL, NoSQL
 
-**Testes/Implantação** | Jest, Mocha, Chai, Vitest, Sinon, Go Tests
+**Testing/Deployment** | Jest, Mocha, Chai, Vitest, Sinon, Supertest, Go Tests
 
-**Ferramentas para Desenvolvedores** | Docker, Git, npm, pnpm, Vite, Webpack, Metodologia Ágil, TDD, Kanban
+**Developer Tools** | Linux, Docker, Git, npm, pnpm, Vite, Webpack, Agile Methodology, TDD, Kanban
 
 ## Experiência
 
-### Gerente | AeG Cafeteria <span class="spacer"></span>Out 2013 - Dez 2022
+### Gerente | AeG Cafeteria <span class="spacer"></span>Out 2013 - Abr 2023
 
 - Aumento de 35% na receita durante o primeiro ano, demonstrando habilidades estratégicas e foco em resultados.
 - Aumento da retenção de talentos de 70% para mais de 90%, enfatizando a importância de valorizar e desenvolver a equipe.
@@ -33,32 +33,37 @@
 
 ## Projetos
 
-### [Unified Store](https://unified-self.vercel.app/) - Aplicação Full Stack <span class="spacer"></span>Abr 2023
+### [RMA Tourism](https://unified-self.vercel.app/) - Full Stack Application <span class="spacer"></span>Jun 2023
 
-<span class="spacer"></span>Golang | React | TypeScript | PostgreSQL | Tailwind | Docker
+<span class="spacer"></span>React | TypeScript | Crystal | Kemal | PostgreSQL | Tailwind | Docker
+
+- Desenvolvi uma aplicação de planejamento de viagens full-stack, utilizando React, TypeScript e Tailwind CSS para uma interface de usuário amigável.
+- Implementei o backend em Crystal e Kemal, demonstrando o poder de linguagens modernas de desenvolvimento web alternativas.
+- Introduzi um recurso único de um endpoint personalizado que faz scrape das imagens de viagem, melhorando a experiência geral do usuário ao fornecer um contexto visual.
+
+<div className="vertical-spacer"></div>
+
+### [Zin Mail](https://github.com/carlosarraes/zinmail) - Full Stack Application <span class="spacer"></span>Mai 2023
+
+<span class="spacer"></span>Vue3 | TypeScript | Golang | ZincSearch | Tailwind | Docker
+
+- Uma aplicação full-stack de pesquisa de e-mails, utilizando Vue3, TypeScript e Tailwind CSS na interface do usuário.
+- Aproveita Go, Go-Chi e ZincSearch no backend para eficientes capacidades de pesquisa de e-mails.
+- Lida com mais de meio milhão de e-mails, permitindo que os usuários pesquisem e visualizem conteúdo de forma contínua.
+- Usa Docker para a containerização da aplicação, garantindo consistência e confiabilidade.
+
+<div className="vertical-spacer"></div>
+
+### [Unified Store](https://unified-self.vercel.app/) - Full Stack Application <span class="spacer"></span>Abr 2023
+
+<span class="spacer"></span>React | TypeScript | Golang | MySQL | Tailwind | Docker
 
 - Frontend facilmente expansível usando React, TypeScript e Tailwind CSS, com um backend baseado em Go.
 - Combina dados da API do MercadoLivre e raspagem de dados do Buscape para exibir produtos.
 - Utiliza o banco de dados PlanetScale para armazenar resultados e históricos de pesquisa.
 - Implantado usando um Dockerfile para garantir integração perfeita com o Google Cloud Platform.
 
-### [QrCode Me](https://qcme.vercel.app/) - Aplicação Full Stack <span class="spacer"></span>Mar 2023
-
-<span class="spacer"></span>Golang | React | TypeScript | PostgreSQL | Tailwind | Docker
-
-- Utilização de React com TypeScript para o front-end, estilizado com Tailwind e implantação no Vercel.
-- Contêiner API stateless para back-end, hospedado no Google Cloud Run e escrito em Golang.
-- Banco de dados estruturado com contêiner PostgreSQL hospedado no ElephantSQL.
-- Testes de front-end realizados usando Vitest e MSW para simulação.
-
-### [FSData](https://fsstack.netlify.app/) - Aplicação Full Stack <span class="spacer"></span>Fev 2023
-
-<span class="spacer"></span>Golang | React | TypeScript | PostgreSQL | Tailwind | Docker
-
-- Front-end construído com TypeScript, implantado no Netlify e estilizado usando Tailwind CSS e DaisyUI.
-- Back-end criado em Golang com go-chi, incluindo um Dockerfile para implantação no Google Cloud Run.
-- Quatro endpoints de API disponíveis para verificação de integridade, recuperação de usuários, criação de usuários e exclusão de usuários.
-- Testes realizados usando Vitest/MSW/Coverage-C8 para o front-end e testes de rota, conexão DB e manipulador para o back-end.
+<div className="vertical-spacer"></div>
 
 ## Educação
 
