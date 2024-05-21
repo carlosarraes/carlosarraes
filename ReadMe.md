@@ -12,6 +12,7 @@
 <hr/>
 <h2 align="left">Keep In Touch</h2>
 <div align="left">
+  <a href="https://calendly.com/carraes/meeting" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/carlosarraes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+  </div>
 
