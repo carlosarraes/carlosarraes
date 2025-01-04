@@ -3,7 +3,7 @@
   Hey👋, still coding on the weekends, always learning :).
 </p>
 <p>
-  Currently working @ Milenio Capital as Backend dev :D!
+  Currently working @ ZapSign as FullStack dev :D!
 </p>
 <hr/>
 <p>
