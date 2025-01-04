@@ -2,9 +2,6 @@
 <p>
   Hey👋, still coding on the weekends, always learning :).
 </p>
-<p>
-  Currently working @ ZapSign as FullStack dev :D!
-</p>
 <hr/>
 <p>
   Some of my projects are down because I gave up on google cloud, new projects gonna be on AWS, so if you want to see any project locally and cant figure it out, talk to me and i'll do a more descriptive readme. :)
